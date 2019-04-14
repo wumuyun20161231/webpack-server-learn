@@ -1,0 +1,28 @@
+{
+  "name": "learn-webpack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wumuyun20161231/webpack-server-learn.git"
+  },
+  "author": "Leon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wumuyun20161231/webpack-server-learn/issues"
+  },
+  "homepage": "https://github.com/wumuyun20161231/webpack-server-learn#readme",
+  "dependencies": {
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-redux": "^7.0.2",
+    "react-script": "^2.0.5",
+    "redux": "^4.0.1",
+    "webpack": "^4.30.0",
+    "webpack-dev-server": "^3.3.1"
+  }
+}
